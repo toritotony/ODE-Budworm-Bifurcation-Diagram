@@ -11,7 +11,7 @@ where \(r\) is the intrinsic growth rate and \(N\) is the carrying capacity.
 
 ### 1. Finding the Equilibria
 
-To find the equilibria, we set \(\frac{dP}{dt} = 0\). For \(P > 0\) (ignoring the trivial equilibrium \(P=0\)), we can divide by \(P\) to obtain:
+To find the equilibria, we set dP/dt = 0. For P > 0 (ignoring the trivial equilibrium P=0, we can divide by P to obtain:
  
 $$
 r\left(1-\frac{P}{N}\right) = \frac{P}{1+P^2}.
