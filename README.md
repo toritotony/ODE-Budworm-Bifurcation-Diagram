@@ -25,7 +25,7 @@ $$
 \frac{d}{dP}\left[r\left(1-\frac{P}{N}\right)-\frac{P}{1+P^2}\right] = 0.
 $$
 
-A simplified derivation shows that these conditions lead to the parametric relations (with \(P > 1\) to ensure \(N>0\)):
+A simplified derivation shows that these conditions lead to the parametric relations with P > 1 to ensure N>0:
 
 $$
 N = \frac{2P^3}{P^2-1}, \quad \text{and} \quad r = \frac{2P^3}{(1+P^2)^2}.
@@ -33,18 +33,18 @@ $$
 
 ### 3. Interpretation
 
-Notice that as \(N\) becomes very large, the expression for \(N\)
+Notice that as N becomes very large, the expression for N
 
 $$
 N = \frac{2P^3}{P^2-1}
 $$
 
-forces \(P\) to be very close to 1 (since for \(P \to 1^+\), \(N \to \infty\)). Substituting \(P \approx 1\) into the formula for \(r\) gives:
+forces P to be very close to 1 since for P to equal 1, N needs to approach infinity. Substituting (P at a value almost equal to 1) into the formula for r gives:
 
 $$
 r \approx \frac{2\cdot1^3}{(1+1)^2} = \frac{2}{4} = 0.5.
 $$
 
-Thus, in the limit of a large carrying capacity, the bifurcation occurs at \(r \approx 0.5\).
+Thus, in the limit of a large carrying capacity, the bifurcation occurs at r approx 0.5.
 
 ---
