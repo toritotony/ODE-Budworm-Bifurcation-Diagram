@@ -1,11 +1,6 @@
 # ODE-Budworm-Bifurcation-Diagram
 A repository that allows you to generate two bifurcation diagrams (2D and 3D versions) of the budworm population model, which is an adjusted version of the logistic population model. More information below which describes how we arrive at the equations that describe the bifurcation values in terms of the growth rate and maximum capacity. Keep in mind that we start by expressing our desire to search for equilibrium values by setting our ODE to zero.
 
-\documentclass{article}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\begin{document}
-
 Consider the budworm model given by
 \begin{equation}
 \frac{dP}{dt} = rP\left(1-\frac{P}{N}\right) - \frac{P^2}{1+P^2},
