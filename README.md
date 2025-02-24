@@ -17,9 +17,9 @@ $$
 r\left(1-\frac{P}{N}\right) = \frac{P}{1+P^2}.
 $$
 
-### 2. Saddle–Node Bifurcation Condition
+### 2. Bifurcation Condition
 
-A bifurcation occurs when the two equilibria merge into one. In addition to the equilibrium condition, we require that the derivative with respect to P is zero:
+This bifurcation (known as a saddle node bifurcation) occurs when the two equilibria merge into one. In addition to the equilibrium condition, we require that the derivative with respect to P is zero:
 
 $$
 \frac{d}{dP}\left[r\left(1-\frac{P}{N}\right)-\frac{P}{1+P^2}\right] = 0.
